@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في ليل السهر
+> قلبي ينادي من بين القدر
+> أشواق عيني تروي الحنين
+> ونار شوقي لا تستكين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
